@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "async": "^3.2.4",
+    "cheerio": "^1.0.0-rc.12",
+    "nodemon": "^3.0.1",
+    "request": "^2.88.2"
+  },
+  "name": "pb-control-flows",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node async.js",
+    "watch": "nodemon async.js"
+  },
+  "author": "khalid khushal",
+  "license": "ISC",
+  "description": ""
+}
